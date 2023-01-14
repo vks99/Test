@@ -12,7 +12,7 @@
 
 
 // Checking
-// check3
+// Changes in Branch3
 // Import mongoose and movie module
 var mongoose = require('mongoose');
 var Movies = require('./models/movie');
